@@ -1,2 +1,2 @@
-# MANGOS
-slurp*
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
